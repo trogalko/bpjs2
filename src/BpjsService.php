@@ -1,5 +1,5 @@
 <?php
-namespace Nsulistiyawan\Bpjs;
+namespace Nsulistiyawan_copy\Bpjs;
 
 use GuzzleHttp\Client;
 use LZCompressor\LZString;
