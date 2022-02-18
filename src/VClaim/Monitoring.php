@@ -1,7 +1,7 @@
 <?php
-namespace Nsulistiyawan\Bpjs\VClaim;
+namespace Nsulistiyawan_copy\Bpjs\VClaim;
 
-use Nsulistiyawan\Bpjs\BpjsService;
+use Nsulistiyawan_copy\Bpjs\BpjsService;
 class Monitoring extends BpjsService
 {
 

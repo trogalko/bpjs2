@@ -1,6 +1,6 @@
 <?php
-namespace Nsulistiyawan\Bpjs\VClaim;
-use Nsulistiyawan\Bpjs\BpjsService;
+namespace Nsulistiyawan_copy\Bpjs\VClaim;
+use Nsulistiyawan_copy\Bpjs\BpjsService;
 
 class LembarPengajuanKlaim extends BpjsService
 {
