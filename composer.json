@@ -1,5 +1,5 @@
 {
-    "name": "joseffi/bpjs2",
+    "name": "joseffi_copy/bpjs2",
     "description": "Wrapper for BPJS Indonesia",
     "type": "package",
     "authors": [
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Nsulistiyawan\\Bpjs\\": "src/"
+            "Nsulistiyawan_copy\\Bpjs\\": "src/"
         }
     },
     "require": {
