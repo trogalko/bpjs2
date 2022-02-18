@@ -23,5 +23,4 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "nullpunkt/lz-string-php": "^1.3"
     }
-  }
 }
